@@ -1,6 +1,6 @@
-- 👋 Hi, I’m prasanna
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning  DIT
+- 👋 Hi, I’m prashanna
+-  I’m interested in web development
+- I’m currently learning  DIT
 
 
 
