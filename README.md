@@ -1,5 +1,5 @@
 - 👋 Hi, I’m prashanna
--  I’m interested in web development
+-  I’m interested in learning new technology and creating innovative solutions.
 - I’m currently learning  BSCS
 
 
